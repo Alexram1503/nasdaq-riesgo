@@ -1,0 +1,12 @@
+Indicador,Valor
+Simulaciones,5000.0
+Horizonte_meses,12.0
+Semilla,12345.0
+Nasdaq_inicial,26861.06
+Rentabilidad_media_12m_pct,15.621341869778151
+Prob_rentabilidad_negativa_12m,0.2804
+VaR95_12m_pct,22.75631663868427
+CVaR95_12m_pct,30.186035245652636
+P_Estres_mes12,0.3254
+P_tocar_Estres_12m,0.6488
+P_drawdown_max_mayor_20pct_12m,0.2444

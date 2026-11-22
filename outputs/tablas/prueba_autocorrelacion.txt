@@ -1,0 +1,1 @@
+<statsmodels.tsa.vector_ar.hypothesis_test_results.WhitenessTestResults object. H_0: residual autocorrelation up to lag 12 is zero: fail to reject at 5% significance level. Test statistic: 185.949, critical value: 190.516>, p-value: 0.078>

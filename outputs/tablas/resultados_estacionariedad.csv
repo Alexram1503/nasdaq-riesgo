@@ -1,0 +1,9 @@
+Variable,ADF_estadistico,ADF_pvalor,ADF_rezagos,ADF_decision,KPSS_estadistico,KPSS_pvalor,KPSS_rezagos,KPSS_decision
+NASDAQCOM_NIVEL,3.2736467507006135,1.0,16,No rechaza raiz unitaria,2.381161802269757,0.01,11,Rechaza estacionariedad
+WTI_NIVEL,-2.2645567685669494,0.183653968895574,3,No rechaza raiz unitaria,1.5646356089024618,0.01,11,Rechaza estacionariedad
+BAA10YM_NIVEL,-3.6240724506077377,0.005317144379733673,1,Rechaza raiz unitaria,0.34782349447021454,0.09964504548697649,11,No rechaza estacionariedad
+GS10_NIVEL,-2.2514798902949065,0.18809420811934502,2,No rechaza raiz unitaria,2.0002446428953027,0.01,11,Rechaza estacionariedad
+NASDAQ_RET,-18.357492483064334,2.230487548318538e-30,0,Rechaza raiz unitaria,0.11869319751877294,0.1,1,No rechaza estacionariedad
+WTI_RET,-11.88004077945647,6.208785090273559e-22,2,Rechaza raiz unitaria,0.04407144834249181,0.1,3,No rechaza estacionariedad
+BAA10YM,-3.590204116419233,0.005951089362814929,1,Rechaza raiz unitaria,0.3461647185850654,0.1,11,No rechaza estacionariedad
+GS10_DIF,-13.358042712390017,5.498318191468152e-25,1,Rechaza raiz unitaria,0.3387251886415977,0.1,4,No rechaza estacionariedad
