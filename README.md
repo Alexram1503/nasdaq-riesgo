@@ -4,7 +4,7 @@ Proyecto integrador del curso **Análisis e Interpretación de Datos a través d
 
 Analiza la dinámica conjunta del Nasdaq Composite, la tasa del Tesoro a 10 años, el petróleo WTI y el diferencial de crédito Baa, y estima la probabilidad de que el Nasdaq entre en un estado de **Estrés** en los próximos 12 meses. El resultado apoya una regla de alerta para un equipo de Middle Office.
 
-**Aplicación publicada:** _(pegar aquí el link de Streamlit)_
+**Aplicación publicada:** https://monitor-nasdaq.streamlit.app/
 
 ## Métodos
 
@@ -80,6 +80,6 @@ Todas las rutas son relativas a la carpeta del proyecto, así que funciona en cu
 
 ## Integrantes
 
-- Wilmer Fabián Prieto Rojas: datos y ETL
-- _(Integrante 2)_: modelo VAR
-- _(Integrante 3)_: Markov, Monte Carlo, Streamlit e interpretación
+- Wilmer Fabián Prieto Rojas: datos, ETL y modelo VAR
+- Alexander Ramirez: Markov, Monte Carlo, Streamlit e interpretación
+   
